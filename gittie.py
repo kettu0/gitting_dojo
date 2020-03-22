@@ -1,5 +1,5 @@
 def introduce():
-    print(f"Hello, I'm Gittie.")
+    print(f"Hello and Welcome! I'm Gittie and in tonight's show...")
 
 
 def add():
