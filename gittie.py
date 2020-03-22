@@ -19,3 +19,5 @@ def joke():
     print(f"The Earth rotation really makes my day.")
 
 
+def shout():
+    print(f"What I've done?!")
