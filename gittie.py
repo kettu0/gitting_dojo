@@ -8,4 +8,7 @@ def add():
     my_list.append(added_item)
 
     print(my_list)
-    
+
+
+def joke():
+    print(f"The Earth rotation really makes my day.")
