@@ -1,5 +1,10 @@
 def introduce():
     print(f"Hello, I'm Gittie.")
+    name = input("pls giv me yr name: ")
+    name_list = []
+    name_list.append(name)
+
+    print(name_list)
 
 
 def add():
@@ -12,3 +17,5 @@ def add():
 
 def joke():
     print(f"The Earth rotation really makes my day.")
+
+
